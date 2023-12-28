@@ -1,0 +1,14 @@
+{
+	"course": {
+		"ID": "CS 410",
+    		"name": "Introduction To Software Engineering"
+		},
+	"name": "Owen Durkin",
+	"major": "Computer Science",
+	"PLs": [ "Python", "Java", "C", "C++", "Racket" ],
+	"400-level prerequisite": "NA",
+	"favorite algorithm": "Huffmann Algorithm",
+	"favorite data structure": "Array",
+	"CS interests": [ "Robotics", "Data analysis", "AI", "Machine Learning", "Embedded Software" ],
+	"non-CS interests": [ "Motorcycles", "cars", "live music", "cooking", "fashion" ]
+}
